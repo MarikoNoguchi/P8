@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">P8</string>
+    
+    <string name="rock_paper_scissors">Rock Paper Scissors!</string>
+    <string name="greeting">Hi</string>
+    <string name="greeting2">!</string>
+    <string name="description">Please choose your hand!</string>
+
+    <string name="results">Results</string>
+    <string name="set_name">Set Your Name</string>
+    <string name="your_name">Your Name</string>
+
+
+    <string name="draw">DRAW</string>
+    <string name="won">WON!</string>
+    <string name="com_won">COMPUTER WON!</string>
+    <string name="again">try again</string>
+
+    <string name="round">ROUND</string>
+    <string name="comp">COMPUTER</string>
+</resources>
